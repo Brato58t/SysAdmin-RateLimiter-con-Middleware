@@ -29,5 +29,11 @@ Para validar la efectividad del sistema, se ha realizado una prueba de carga don
 1. Clona el repositorio:
    ```bash
    git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
+2. Instala las dependencias:
+```pip install flask
+3. Ejecuta el servidor:
+```python servidor.py
+4. Accede en tu navegador a:
+```http://127.0.0.1:5000
 
 *cabe aclarar que esté repositorio tiene licencia MIT*
