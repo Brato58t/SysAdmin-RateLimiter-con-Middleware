@@ -29,3 +29,5 @@ Para validar la efectividad del sistema, se ha realizado una prueba de carga don
 1. Clona el repositorio:
    ```bash
    git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
+
+*cabe aclarar que esté repositorio tiene licencia MIT*
