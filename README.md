@@ -32,5 +32,5 @@ Sistema de limitación de tasa (Rate Limiter) diseñado para proteger servicios 
 - [ ] Auth Bearer Tokens
 
 ---
-Desarrollado para el Laboratorio de Arquitectura de Sistemas.
-Licencia: MIT
+*Desarrollado para el Laboratorio de Arquitectura de Sistemas.
+Licencia: MIT*
