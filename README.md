@@ -18,7 +18,7 @@ Sistema de limitación de tasa (Rate Limiter) diseñado para proteger servicios 
 - Flask
 
 ## Demostración
-[👉 Ver video de demostración aquí]https://youtu.be/sCBahPqp8CA?si=ZuofkMNEJ9GA2YOJ
+👉 Ver video de demostración aquí: https://youtu.be/sCBahPqp8CA?si=ZuofkMNEJ9GA2YOJ
 
 ## Instalación
 1. git clone https://github.com/tu-usuario/nombre-del-repo.git
